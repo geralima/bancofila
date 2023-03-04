@@ -3,7 +3,7 @@
 
 Simulador de fila de banco utilizando uma lista dinâmica em Java.
 
-**[Clique para acessar o projeto novo, feito em JavaScript.](https://github.com/AugustoFrr/fila-banco-js)**
+
 
 **Está é a minha solução para o problema:**
 

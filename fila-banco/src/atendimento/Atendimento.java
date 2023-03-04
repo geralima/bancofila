@@ -2,8 +2,7 @@
 
 package atendimento;
 
-//Augusto Barbosa Ferreira
-
+//Geraldo Pedrosa de Lima
 import java.util.Random;
 
 public class Atendimento {
